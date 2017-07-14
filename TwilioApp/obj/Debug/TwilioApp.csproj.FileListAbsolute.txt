@@ -15,3 +15,25 @@ c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\TwilioApp\obj
 c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\TwilioApp\obj\Debug\TwilioApp.pdb
 c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\TwilioApp\bin\Debug\Twilio.Library.dll
 c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\TwilioApp\bin\Debug\Twilio.Library.pdb
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\TwilioApp.exe.config
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\obj\Debug\TwilioApp.exe
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\obj\Debug\TwilioApp.pdb
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\TwilioApp.exe
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\TwilioApp.pdb
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\Twilio.Library.dll
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\WindowsAzureEventSource.dll
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\WindowsAzureTelemetryEvents.dll
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\Twilio.dll
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\MonAgentListener.dll
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\Twilio.Library.pdb
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\bin\Debug\Twilio.xml
+C:\Users\manabtawi\Documents\GitHub\TwilioApp\TwilioApp\obj\Debug\TwilioApp.csprojResolveAssemblyReference.cache
