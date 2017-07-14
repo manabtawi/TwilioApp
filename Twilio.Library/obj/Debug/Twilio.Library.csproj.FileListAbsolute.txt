@@ -1,0 +1,15 @@
+c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\Twilio.Library\bin\Debug\Twilio.Library.dll
+c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\Twilio.Library\bin\Debug\Twilio.Library.pdb
+c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\Twilio.Library\bin\Debug\Microsoft.IdentityModel.Logging.dll
+c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\Twilio.Library\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\Twilio.Library\bin\Debug\Newtonsoft.Json.dll
+c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\Twilio.Library\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\Twilio.Library\bin\Debug\Twilio.dll
+c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\Twilio.Library\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\Twilio.Library\bin\Debug\Newtonsoft.Json.xml
+c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\Twilio.Library\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\Twilio.Library\bin\Debug\Twilio.xml
+c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\Twilio.Library\obj\Debug\Twilio.Library.csprojResolveAssemblyReference.cache
+c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\Twilio.Library\obj\Debug\Twilio.Library.dll
+c:\users\manabtawi\documents\visual studio 2015\Projects\TwilioApp\Twilio.Library\obj\Debug\Twilio.Library.pdb
+C:\Users\manabtawi\Documents\Visual Studio 2015\Projects\TwilioApp\Twilio.Library\bin\Debug\Twilio.Library.dll.config

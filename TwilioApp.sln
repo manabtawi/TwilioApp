@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwilioApp", "TwilioApp\TwilioApp.csproj", "{E77C7EEF-3012-47F9-A087-6FAC1ABBB761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twilio.Library", "Twilio.Library\Twilio.Library.csproj", "{910B24A4-B2EA-4238-A62B-F39AAC2ECB91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twilio.API", "Twilio.API\Twilio.API.csproj", "{E94D9C94-5A54-40F7-B817-FB9C47258E2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{DC9AC070-DCB0-4846-AEE7-94537A5445C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E77C7EEF-3012-47F9-A087-6FAC1ABBB761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E77C7EEF-3012-47F9-A087-6FAC1ABBB761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E77C7EEF-3012-47F9-A087-6FAC1ABBB761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E77C7EEF-3012-47F9-A087-6FAC1ABBB761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910B24A4-B2EA-4238-A62B-F39AAC2ECB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910B24A4-B2EA-4238-A62B-F39AAC2ECB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910B24A4-B2EA-4238-A62B-F39AAC2ECB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910B24A4-B2EA-4238-A62B-F39AAC2ECB91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94D9C94-5A54-40F7-B817-FB9C47258E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94D9C94-5A54-40F7-B817-FB9C47258E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94D9C94-5A54-40F7-B817-FB9C47258E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94D9C94-5A54-40F7-B817-FB9C47258E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC9AC070-DCB0-4846-AEE7-94537A5445C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9AC070-DCB0-4846-AEE7-94537A5445C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9AC070-DCB0-4846-AEE7-94537A5445C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9AC070-DCB0-4846-AEE7-94537A5445C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
